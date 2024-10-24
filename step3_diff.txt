@@ -1,0 +1,30 @@
+PS D:\anshg\Masters\Fall24\SE\SE-HW5> git diff 022e882771a5d7a712a73d380dd448493c3f490e..5e32f127040d159375a3af50ce34fcc5475487b0
+diff --git a/index.html b/index.html
+index 71e33c3..e391206 100644
+--- a/index.html
+ <h2>Members:</h2>
+ <ul>
+-    <li>Ansh Ganatra - aganatr@ncsu.edu</li>
+-    <li>Sai Tarun Yellamraju - vyellam@ncsu.edu</li>
+-    <li>Yash Mor - ymor2@ncsu.edu</li>
++    <li>Ansh Ganatra - <a href="mailto:aganatr@ncsu.edu">aganatr@ncsu.edu</a></li>
++    <li>Sai Tarun Yellamraju - <a href="mailto:vyellam@ncsu.edu">vyellam@ncsu.edu</a></li>
++    <li>Yash Mor - <a href="mailto:ymor2@ncsu.edu">ymor2@ncsu.edu</a></li>
+ </ul>
+:...skipping...
+diff --git a/index.html b/index.html
+index 71e33c3..e391206 100644
+--- a/index.html
++++ b/index.html
+@@ -2,7 +2,7 @@
+ <h3>Group 71</h3>
+ <h2>Members:</h2>
+ <ul>
+-    <li>Ansh Ganatra - aganatr@ncsu.edu</li>
+-    <li>Sai Tarun Yellamraju - vyellam@ncsu.edu</li>
+-    <li>Yash Mor - ymor2@ncsu.edu</li>
++    <li>Ansh Ganatra - <a href="mailto:aganatr@ncsu.edu">aganatr@ncsu.edu</a></li>
++    <li>Sai Tarun Yellamraju - <a href="mailto:vyellam@ncsu.edu">vyellam@ncsu.edu</a></li>
++    <li>Yash Mor - <a href="mailto:ymor2@ncsu.edu">ymor2@ncsu.edu</a></li>
+ </ul>
+\ No newline at end of file
